@@ -1,0 +1,31 @@
+
+.dolphin-container{
+  background:#fff;
+}  
+
+
+body {
+  background:#3b0054;
+  font-family: 'Charmonman', cursive;
+  color:red;
+  font-size: 25px;
+}    
+
+h1{
+  background: blue;
+  margin-left: 50px;
+  padding-left: 48px;
+  font-size: 56px;
+}
+
+.header {
+  background: green;
+}
+
+.blueparagraph {
+  color: green;
+}
+ 
+.container {
+  background: #fff; 
+}
